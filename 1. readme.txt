@@ -23,10 +23,10 @@ If the game is over, close the program and run it again to play again.
 Hope you enjoy the game! :D
 
 Credits:
-Sng Wei Qi Amos (1005952): Created the typing game and wrote documentation
-Soh Zhi Ying (1006359): Created the math game and wrote documentation
-Edwin Wongso (1006200): Created the maze generator and wrote documentation
-Zaina Aafreen (1006145): Created the geography game and wrote documentation 
-Tan Yu Quan (1006355): Created the number pattern game and wrote documentation
+Sng Wei Qi Amos: Created the typing game and wrote documentation
+Soh Zhi Ying: Created the math game and wrote documentation
+Edwin Wongso: Created the maze generator and wrote documentation
+Zaina Aafreen: Created the geography game and wrote documentation 
+Tan Yu Quan: Created the number pattern game and wrote documentation
 
 
